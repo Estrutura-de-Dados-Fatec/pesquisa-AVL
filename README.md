@@ -109,8 +109,8 @@
 ---
 
 ## 7. Entrega Final
-- **Slides**: PDF e link editável (Google Slides/PowerPoint Online).  
-- **Arquivo “MCQs.pdf”**:  
+- **Slides**: PowerPoint ou link editável (Google Slides/PowerPoint Online;etc).  
+- **Arquivo “Questoes.pdf”**:  
   - 3 questões numeradas.  
   - Alternativas A–D.  
   - Gabarito ao final.  
